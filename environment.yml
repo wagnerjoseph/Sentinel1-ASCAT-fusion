@@ -1,0 +1,25 @@
+name: ascat-s1-synergy
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - folium
+  - pystac-client
+  - odc-stac
+  - ipykernel
+  - jupyterlab
+  - notebook
+  - xarray
+  - rasterio
+  - dask=2023.12.1 
+  - matplotlib
+  - pip
+  - netcdf4
+  - hvplot
+  - datashader
+  - jupyter_bokeh
+  - pygeogrids
+  - pip:
+    - ascat
+    - fibgrid
+    - tqdm
