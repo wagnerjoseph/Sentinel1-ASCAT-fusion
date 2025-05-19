@@ -19,6 +19,8 @@ dependencies:
   - datashader
   - jupyter_bokeh
   - pygeogrids
+  - bottleneck
+
   - pip:
     - ascat
     - fibgrid
