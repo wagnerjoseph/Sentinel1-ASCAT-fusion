@@ -1,2 +1,3 @@
 linux: ~/shares/radar/DataLab/sync_with_datalab
+windows: Z:/DataLab/sync_with_datalab
 jupyterhub: ~/shared/datasets/geo/sync
