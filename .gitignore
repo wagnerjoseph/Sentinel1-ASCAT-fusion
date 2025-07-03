@@ -1,7 +1,7 @@
-# Ignore all .zarr datasets (including nested contents)
+# Ignore all .zarr and .nc datasets
 **/*.zarr/
 **/*.zarr/**
-
+**/*.nc
 # Ignore temporary shapefile components if downloaded
 ne_110m_admin_0_countries.*
 !ne_110m_admin_0_countries.README.html  # keep docs if needed
